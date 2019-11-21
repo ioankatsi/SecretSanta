@@ -1,0 +1,41 @@
+While booting Red led.
+
+after python script running. blink green led.
+
+1. switch for starting the script
+
+2. Joke start
+
+3.say joke.
+
+4. start MQTT. print on screen Let's play a game.
+
+" You have to find the solution in 2 riddles to get the pass
+
+
+1. Whats at least 6 inches long, goes in your mouth, and is more fun when it vibrates
+	a toothbrush, come on MITSOS. 
+	Anyways it's cristmas the first number is 1
+
+2. How many people are in Sb technologies ?   answer 15
+
+
+4. Web server with Funny pic 
+
+The first number of the code is the last number of your phone digit
+The third number of the code is the first number of your RFID
+
+
+
+
+Enter the code 
+
+Play sound. 
+
+Servo opens the case
+
+another servo thow candies and raspberry takes pictures.
+
+
+
+every right answer gets one green led on !  
