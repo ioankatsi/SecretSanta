@@ -11,6 +11,7 @@ playsound = "*"
 gi = "*"
 vext = "*"
 vext-gi = "*"
+paho-mqtt = "*"
 
 [requires]
 python_version = "3.6"
